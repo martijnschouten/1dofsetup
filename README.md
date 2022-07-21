@@ -1,5 +1,5 @@
 # 1dofsetup
-A simple and cheap one degree of freedom exo-skelleton, that provides analog (=no delay!) join torque and angle measurements. The exo-skelleton uses a two stage gear reduction to be able to provide enough torque using NEMA17 stepper motor. This setup has been designed to be used with a stepper motor that has resistor connected so that it behaves like damper. This setup has NOT been tested with a stepper motor connected to a non-passive system, such as stepper motor driver, and using it in this way could cause damage to the user.
+A simple and cheap one degree of freedom exo-skelleton, that provides analog (=no delay!) joint torque and angle measurements. The exo-skelleton uses a two stage gear reduction to be able to provide enough torque using NEMA17 stepper motor. This setup has been designed to be used with a stepper motor that has resistor connected so that it behaves like damper. This setup has NOT been tested with a stepper motor connected to a non-passive system, such as stepper motor driver, and using it in this way could cause damage to the user.
 
 ![setup4](https://user-images.githubusercontent.com/6079002/180181267-42efb5d2-eb0c-453d-be0e-ae620ad474f5.png)
 
