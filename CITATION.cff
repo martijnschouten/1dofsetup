@@ -4,11 +4,14 @@ authors:
 - family-names: "Schouten"
   given-names: "Martijn"
   orcid: "https://orcid.org/0000-0001-9774-1195"
+- family-names: "Momen"
+  given-names: "Abayazid"
+  orcid: "https://orcid.org/0000-0003-1857-5921"
 - family-names: "Krijnen"
   given-names: "Gijs" 
   orcid:  "https://orcid.org/0000-0001-9537-7123"
 title: "1dofsetup"
 version: 1.0.0
-doi: 10.4121/19525588
+doi: 10.5281/zenodo.10577053
 date-released: 2022-04-06
 url: "https://github.com/martijnschouten/1dofsetup"
